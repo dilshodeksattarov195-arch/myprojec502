@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productverify",
+        "uuid": 808722,
+        "checksum": "ugkjlf"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
